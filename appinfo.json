@@ -10,6 +10,13 @@
   },
   "appKeys": {},
   "resources": {
-    "media": []
+    "media": [
+      {
+          "type": "png",
+          "name": "MENU_ICON",
+          "file": "menuIcon.png",
+          "menuIcon": true
+      }
+    ]
   }
 }
