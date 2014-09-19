@@ -1,0 +1,15 @@
+{
+  "uuid": "a4c5a27e-6f85-4a88-876f-2cb87610f52a",
+  "shortName": "AFTimer",
+  "longName": "AFTimer",
+  "companyName": "AF-Apps",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": []
+  }
+}
